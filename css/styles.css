@@ -1,0 +1,60 @@
+html{
+    font-family: 'Zilla Slab', Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border: 5px solid darkblue;
+    background-color: darkblue;
+    color: wheat;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+
+img.token{
+    width: 2%;
+    height: 2%;
+}
+
+h2{
+    display: inline;
+    padding: 25px;
+    border: 5px solid red;
+    background-color: wheat;
+
+}
+
+h3{
+    color: darkred;
+}
+
+body{
+    background: linear-gradient(darkblue, darkred);
+    background-repeat: no-repeat;
+}
+
+div{
+    padding: 20px;
+}
+
+button.spin{
+    padding: 30px;
+}
+
+div.slot2 span.balance{
+    color: wheat;
+    font-weight: bolder;
+}
+
+div.slot2{
+    background: linear-gradient(wheat, whitesmoke);
+}
+
+img.moneys1{
+    width: 2%;
+    height: 2%;
+}
+
+img.moneys2{
+    width: 2.5%;
+    height: 2.5%;
+}
